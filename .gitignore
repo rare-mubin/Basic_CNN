@@ -2,7 +2,7 @@
 # Dataset (≈900 MB) — download from Mendeley Data, see README.md
 # ---------------------------------------------------------------
 RoseLeafSet/
-RoseLeafSet Image_128/
+# RoseLeafSet Image_128/
 *.zip
 *.rar
 *.7z
