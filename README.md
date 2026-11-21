@@ -1,4 +1,4 @@
-# Rose Leaf Disease Classification with a Basic CNN
+# Rose Leaf Classification with a Basic CNN
 
 A simple Convolutional Neural Network (CNN), built from scratch in **PyTorch**, that classifies rose-leaf photos into 4 classes: **Black Spot**, **Dry Leaf**, **Healthy Leaf** and **Leaf Holes**.
 
